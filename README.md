@@ -22,7 +22,9 @@ python3 test.py
 ```
 # II) Git instruction
 install the RKNN-Toolkit2 to convert the model. (https://wiki.t-firefly.com/en/ROC-RK3568-PC/usage_npu.html)
-
+```
+git clone https://github.com/rockchip-linux/rknn-toolkit2
+```
 ## 1. Install virtualenv、Python3.8 and pip3
 ```
 sudo apt install virtualenv 
